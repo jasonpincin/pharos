@@ -11,7 +11,7 @@ Coordinate processes in distributed applications.
 var pharosTree = require('pharos/tree')
 ```
 
-See [pharos-tree](https://github.com/jasonpincin/pharos-tree#api) API docs. 
+See [pharos-tree](https://github.com/jasonpincin/pharos-tree) [api docs](https://github.com/jasonpincin/pharos-tree#api).
 
 ## testing
 
