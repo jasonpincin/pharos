@@ -3,8 +3,6 @@ pharos
 
 Coordinate processes in distributed applications.
 
-** UNSTABLE ** - Not recommended to be used in anything serious at the moment.
-
 ## example
 
 ```
