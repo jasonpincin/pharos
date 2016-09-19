@@ -1,6 +1,6 @@
 {
   "name": "pharos",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Coordinate processes in distributed applications.",
   "main": "./tree.js",
   "scripts": {
