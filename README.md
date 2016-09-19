@@ -11,6 +11,11 @@ var pharosTree = require('pharos/tree')
 
 See [pharos-tree](https://github.com/jasonpincin/pharos-tree) [api docs](https://github.com/jasonpincin/pharos-tree#api).
 
+## todo
+
+* peer - easily share tree state between processes
+* server - allow access to tree state from non-peers
+
 ## testing
 
 `npm test [--dot | --spec] [--coverage]`
